@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently working AI agents and analysers using machine learning and deep learning.<br>I'm doing my masters in Computer Science with AI at University of Southern California, Los Angeles.<br>Currently looking for 2025 summer internship opportunities.<br>I have experience in building ML and DL models and AI agents as well as am a full stack developer.<br>I have also experience in building android apps as well.<br>I interned as an academic intern at National University of Singapore as well as a Deep learning intern.<br>
+🚀 AI/ML Engineer | Full-Stack Developer | USC Graduate Student<br>✨ M.S. in Computer Science (AI) @ University of Southern California, Los Angeles<br>🔍 Seeking Summer 2025 Internships<br><br>🌱 What I Bring to the Table:<br><br>🤖 Built AI agents & analyzers using ML/DL (PyTorch, TensorFlow)<br><br>💻 Full-stack development expertise (MERN stack, Python, AWS)<br><br>📱 Android app development experience (Kotlin, Jetpack Compose)<br><br>🧠 Hands-on work with neural networks, NLP, and computer vision<br><br>🏆 Former Deep Learning Intern @ National University of Singapore<br><br>📚 Academic Intern @ NUS (research-focused AI/ML projects)<br><br>🌟 Passionate about bridging cutting-edge AI with scalable software solutions.
 
 
 ## 🌐 Socials:
