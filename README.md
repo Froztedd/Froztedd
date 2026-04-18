@@ -8,7 +8,7 @@ I build production AI systems — multi-agent pipelines, LLM infrastructure, and
 
 ## 🚀 What I've Shipped
 
-- 🌍 **Multilingual AI Translation Agent** — Qwen 3.5-9B via vLLM, 6 languages, 4,000+ enterprise users, BLEU improved from 88% → 96.3%
+- 🌍 **Multilingual AI Translation Agent** — Qwen 3.5-9B via vLLM, 6 languages, 400+ enterprise users, BLEU improved from 88% → 96.3%
 - 🤖 **AI Resume Screening Agent** — FastAPI + React + FAISS + multi-LLM routing (Mistral/Deepseek/Llama-70B), 0.89 F1, 40% cost reduction
 - 🌐 **VIGIL** — Global convergence intelligence platform with LangGraph agents, CesiumJS globe, Redis pub/sub, pgvector
 - 📈 **GPU-Accelerated Portfolio Optimization Engine** — PyTorch/CUDA, React frontend, real-time Recharts visualization
@@ -102,5 +102,3 @@ I build production AI systems — multi-agent pipelines, LLM infrastructure, and
 
 **Design**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
